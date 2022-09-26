@@ -1,17 +1,23 @@
 # Play-Joyfully
 
-개발환경<br><br>
-OS window 10<br>IDE BE : Esclipse(Spring)<br> IDE FE : VScode, next.js  <br>
-팀원 소개 및 담당역할<br>
+<h2> 1. 프로젝트 소개 </h2><br><br>
+
+슬로건<br><br>
+
+<h2> 2. 팀원 소개 및 담당역할</h2><br><br>
 천보라 - <br>
 문형기 - <br>
 서영석 - <br>
 오치헌 - <br>  <br>
 
+개발환경<br><br>
+OS window 10<br>IDE BE : Esclipse(Spring)<br> IDE FE : VScode, next.js  <br> <br>
+
+
 도메인 용어  <br>
 <table>
   <td>  <br>
-    <Host 사회자>  <br>
+<Host 사회자>  <br>
 Host_id 사회자 아이디  <br>
 Host_pw 사회자 비밀번호  <br>
 User_id 그룹 아이디  <br>
